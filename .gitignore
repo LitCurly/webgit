@@ -1,3 +1,2 @@
 #en este archivo se indican los archivos o carpetas que no desee incluir al repositorio como las credenciales de base de datos propias
 .env
-node_modules/
